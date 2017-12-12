@@ -18,6 +18,9 @@
     text-align:center;
 }
 
+.button-fixed-width{
+  width: 200px
+}
 @media (min-width:992px) {
   .hero .get-it {
     text-align:right;
